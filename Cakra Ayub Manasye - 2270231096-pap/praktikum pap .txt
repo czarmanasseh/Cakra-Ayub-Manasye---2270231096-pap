@@ -1,0 +1,22 @@
+latihan 1 -> hal 4
+latihan 2 -> hal 5
+latihan 3 -> hal 6
+latihan 4 -> hal 10
+latihan 5 -> hal 11
+latihan 6 -> hal 13`
+latihan 7 -> hal 16
+latihan 8 -> hal 17
+latihan 9 -> hal 18
+latihan 10 -> hal 22
+latihan 11 -> hal 25
+latihan 12 -> hal 28
+latihan 13 -> hal 29
+latihan 14 -> hal 34
+latihan 15 -> hal 38
+latihan 16 -> hal 41
+latihan 17 -> hal 43
+latihan 18 -> hal 51
+latihan 19 -> hal 53
+latihan 20 -> hal 55
+latihan 21 -> hal 56
+tugas_akhir -> hal 57
